@@ -1,0 +1,2 @@
+# squential_search
+squential
